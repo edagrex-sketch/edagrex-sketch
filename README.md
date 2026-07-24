@@ -35,5 +35,5 @@ Estudiante de Ingeniería en Desarrollo y Gestión de Software (Universidad Tecn
 
 ## 📫 Contacto
 
-- LinkedIn: [tu-usuario-linkedin] *(pendiente: dame tu URL)*
-- Email: [tu-correo] *(pendiente: dame tu correo)*
+- LinkedIn: *(https://www.linkedin.com/in/eduardo-aguilar-b8aa6a3a1/)*
+- Email: *(ed.ag.rex@gnail.com)*
