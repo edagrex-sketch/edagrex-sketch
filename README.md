@@ -31,9 +31,8 @@ Estudiante de Ingeniería en Desarrollo y Gestión de Software (Universidad Tecn
 
 - Profundizando en arquitecturas limpias (Clean Architecture) y BLoC en Flutter.
 - Buenas prácticas de sincronización de datos offline-first.
-- [Agrega aquí lo que estés aprendiendo ahora — Firebird, testing automatizado, CI/CD, etc.]
 
 ## 📫 Contacto
 
-- LinkedIn: *(https://www.linkedin.com/in/eduardo-aguilar-b8aa6a3a1/)*
-- Email: *(ed.ag.rex@gnail.com)*
+- LinkedIn: *https://www.linkedin.com/in/eduardo-aguilar-b8aa6a3a1/*
+- Email: *ed.ag.rex@gnail.com*
